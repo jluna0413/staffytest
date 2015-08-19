@@ -38,3 +38,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'bundler'
+
+gem 'google-analytics-rails'
+gem 'acts_as_votable', github: 'ryanto/acts_as_votable'
+gem 'tzinfo-data'
+gem 'validates_formatting_of'
