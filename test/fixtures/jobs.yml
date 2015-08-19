@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  jobtitle: MyString
+  jobdescription: MyText
+  jobstart: 2015-08-19 17:42:14
+  jobend: 2015-08-19 17:42:14
+  client_id: 
+
+two:
+  jobtitle: MyString
+  jobdescription: MyText
+  jobstart: 2015-08-19 17:42:14
+  jobend: 2015-08-19 17:42:14
+  client_id: 
